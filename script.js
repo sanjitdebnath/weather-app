@@ -96,7 +96,7 @@ function weather_detail(info)
         }
         else if(id >=801 && id<=804)
         {
-            Wicon.src = "icons/img1.jpg";
+            Wicon.src = "icons/cloud.svg";
         }
         else if((id >=300 && id<=321) || (id >=500 && id<=531))
         {
